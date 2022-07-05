@@ -13,13 +13,18 @@ body {
 
 }
 
+h1 {
+    font-size: 50px;
+}
+
 .share {
     width: 50%;
     padding-left: 40px;
+    padding-right: 150px;
 }
 
 .share img {
-    width: 50%;
+    width: 70%;
 
 }
 
@@ -41,4 +46,11 @@ body {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.exp {
+    width: 50%;
+    margin-left: 100px;
+    margin-right: 100px;
+    box-shadow: 20px 20px 30px grey;
 }
