@@ -27,11 +27,12 @@ section {
 
 .share {
     width: 50%;
-    padding-left: 10%;
+    padding-left: 40px;
 }
 
 .share img {
     width: 50%;
+
 }
 
 .anchor {
