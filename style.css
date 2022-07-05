@@ -3,23 +3,11 @@ body {
     margin: 0%;
 }
 
-h1 {
-    font-size: 55px;
-}
-
-h2 {
-    font-size: 45px;
-}
-
 .color {
     color: indianred;
 }
 
-h3 {
-    font-size: 25px;
-}
-
-section {
+.flexible-container {
     display: flex;
     padding-top: 10%;
 
