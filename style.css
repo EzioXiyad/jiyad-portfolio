@@ -50,7 +50,15 @@ h1 {
 
 .exp {
     width: 50%;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 40px;
     box-shadow: 20px 20px 30px grey;
+    border-radius: 10px;
+}
+
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
